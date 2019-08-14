@@ -41,7 +41,7 @@
 
 ​    继承Thread类，搭建好用来与服务器传输信息的BufferedReader和PrintStream，br相当于听筒用来接收来自客户端的消息，ps相当于话筒，用来将消息发送给指定的客户端。
 
-####（1）  ChatThread构造函数：
+（1）  ChatThread构造函数：
     传入参数为Socket
 
 （2）  run函数：
