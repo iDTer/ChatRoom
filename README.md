@@ -94,7 +94,13 @@ OFLINE——收到来自客户端的下线消息，转发给所有客户端，�
 
 #### 3. 截图
 
+服务器端界面：
+
 ![png](http://cdn.peckerwood.top/2019-08-14_171608.png)
+
+
+
+客户端界面：
 
 ![png](http://cdn.peckerwood.top/2019-08-14_171632.png)
 
@@ -110,7 +116,7 @@ OFLINE——收到来自客户端的下线消息，转发给所有客户端，�
 
 
 
-
+群聊列表：
 
 ![png](http://cdn.peckerwood.top/2019-08-14_171812.png)
 
